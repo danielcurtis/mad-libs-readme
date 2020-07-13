@@ -1,0 +1,17 @@
+{
+  "name": "dont-readme",
+  "version": "1.0.0",
+  "description": "README templates",
+  "main": "./personal/updateReadme.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcurtis/dont-readme.git"
+  },
+  "author": "Daniel Curtis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielcurtis/dont-readme/issues"
+  },
+  "homepage": "https://github.com/danielcurtis/dont-readme#readme"
+}
