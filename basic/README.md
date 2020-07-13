@@ -1,6 +1,6 @@
 # Basic README Template
 
-A super robot's README.
+A super robot's README. [Click here for the plain version](https://github.com/danielcurtis/dont-readme/blob/main/basic/PLAIN.md)
 
 ## Prerequisites
 
