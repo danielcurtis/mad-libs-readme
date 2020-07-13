@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="./logo.png" alt="crossed out book" height="80"/></p>
 <h1 align="center">Spicy README Template</h1>
 
-<p align="center">A super robot's README, with some glamour. [Click here for the plain version](https://github.com/danielcurtis/dont-readme/blob/main/spicy/PLAIN.md)</p>
+<p align="center">A super robot's README, with some glamour. <a href="https://github.com/danielcurtis/dont-readme/blob/main/spicy/PLAIN.md">Click here for the plain version.</a></p>
 <p align="center"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/codescurtis?style=social"></p>
 
 ## Prerequisites ☑️
