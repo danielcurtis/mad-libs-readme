@@ -10,7 +10,7 @@ I spend too much time writing READMEs. Somehow every README I've written is virt
 
 ## Templates
 
-#### [Basic Template]()
+#### [Basic Template](https://github.com/danielcurtis/dont-readme/tree/main/basic)
 
 There's a basic formula that should be followed when writing a README:
 
@@ -23,7 +23,7 @@ There's a basic formula that should be followed when writing a README:
 7. Contributors & Acknowledgements
 8. License
 
-#### [Spicy Template]()
+#### [Spicy Template](https://github.com/danielcurtis/dont-readme/tree/main/spicy)
 
 There's some easy additions to spice up a README:
 
@@ -33,6 +33,6 @@ There's some easy additions to spice up a README:
 4. Add images (bonus points for GIFs)
 5. Use emojis
 
-#### [Personal Template]()
+#### [Personal Template](https://github.com/danielcurtis/dont-readme/tree/main/personal)
 
 Recently, GitHub added the option to pin a README to profiles. GitHub actions and some NodeJS make it easy to make it dynamic!
