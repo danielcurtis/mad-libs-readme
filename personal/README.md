@@ -14,13 +14,29 @@ This is an example pinned README for my GitHub.
 ## Prerequisites:
 
 - GitHub Actions
-- NodeJS (v10 or later)
+- NodeJS
 
 ## Installation:
 
-The easiest install would be to copy the files in this directory.
+1. Copy the following files from the dont-readme repo:
 
-*I'm working on a template to make it even easier.*
+- personal/updateReadme.js
+- personal/README.md
+- .github/workflows/build.yml
+
+2. Add the files to your namespace repo. The repo should match your GitHub username, for me it's "danielcurtis"
+3. Replace the URL endpoint in the updateReadme.js file with your DEV username
+4. If you make changes to the README text, be sure to update the regex in the updateReadme.js file
+
+## Development:
+
+I demonstrate how to fetch DEV articles in updateReadme.js
+
+You could in theory display all kinds of data from an API in your README. Cat facts, GitHub user data, etc.
+
+1. Fetch data with a NodeJS file (updateReadme.js)
+2. Add environment variables for secret APIs (I don't do this currently, but it's easy to do in settings)
+3. Use GitHub Actions to run the file (build.yml)
 
 ## License
 
