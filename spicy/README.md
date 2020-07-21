@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="./logo.png" alt="crossed out book" height="80"/></p>
 <h1 align="center">Spicy README Template</h1>
 
-<p align="center">A super robot's README, with some glamour. <a href="https://github.com/danielcurtis/dont-readme/blob/main/spicy/PLAIN.md">Click here for the plain version.</a></p>
+<p align="center">A super robot's README, with some glamour. <a href="https://github.com/danielcurtis/mad-libs-readme/blob/main/spicy/PLAIN.md">Click here for the plain version.</a></p>
 <p align="center"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/codescurtis?style=social"></p>
 
 ## Prerequisites ☑️
@@ -16,7 +16,7 @@
 ## Installation 💻
 
 1. *Explain every step to get the robot working. For example:*
-2. Clone the repo `git clone https://github.com/danielcurtis/dont-readme.git`
+2. Clone the repo `git clone https://github.com/danielcurtis/mad-libs-readme.git`
 3. Change to the spicy directory `cd spicy`
 4. Run the robot `node robotcli.js`
 
@@ -73,7 +73,7 @@ node robotcli.js -d dominos
 
 ## License 🏛️
 
-[MIT](https://github.com/danielcurtis/dont-readme/main/LICENSE)
+[MIT](https://github.com/danielcurtis/mad-libs-readme/main/LICENSE)
 
 
 
