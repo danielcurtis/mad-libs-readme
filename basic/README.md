@@ -1,17 +1,17 @@
 # Basic README Template
 
-A super robot's README. [Click here for the plain version](https://github.com/danielcurtis/dont-readme/blob/main/basic/PLAIN.md)
+A super robot's README. [Click here for the plain version](https://github.com/danielcurtis/mad-libs-readme/blob/main/basic/PLAIN.md)
 
 ## Prerequisites
 
-- *List system requirements. For example:*
+- _List system requirements. For example:_
 - [NodeJS (v10 or later)](https://nodejs.org/en/download/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
 ## Installation
 
-1. *Explain every step to get the robot working. For example:*
-2. Clone the repo `git clone https://github.com/danielcurtis/dont-readme.git`
+1. _Explain every step to get the robot working. For example:_
+2. Clone the repo `git clone https://github.com/danielcurtis/mad-libs-readme.git`
 3. Install dependancies `npm install`
 4. Start the robot's server `npm run start`
 5. Test the robot's server `npm run test`
@@ -19,15 +19,15 @@ A super robot's README. [Click here for the plain version](https://github.com/da
 
 ## Usage
 
-*List how to use the program with the basic commands and one example. If there's a lot of usage, consider creating a docs directory.*
+_List how to use the program with the basic commands and one example. If there's a lot of usage, consider creating a docs directory._
 
 After starting the robot's server, use the command line to control it.
 
-| CLI Option | Description |
-| --- | --- |
-| -q | Perform quantum analysis |
-| -d | Deliver pizza |
-| -j | Tell a funny joke |
+| CLI Option | Description              |
+| ---------- | ------------------------ |
+| -q         | Perform quantum analysis |
+| -d         | Deliver pizza            |
+| -j         | Tell a funny joke        |
 
 #### Simple example
 
@@ -39,7 +39,7 @@ superrobot -d dominos
 
 ## Contributing
 
-*Detail steps that contributors should take. Note to self: Create a code of conduct and naming convention template.*
+_Detail steps that contributors should take. Note to self: Create a code of conduct and naming convention template._
 
 1. Follow the installation instructions
 2. Create a branch with the following naming convention
@@ -64,13 +64,9 @@ superrobot -d dominos
 
 #### Contributors
 
-  - *List contributors by hand? **Lame**.*
-  - *List super robot's contributors using a [GitHub bot](https://allcontributors.org/docs/en/bot/overview)? **Cool**.*
+- _List contributors by hand? **Lame**._
+- _List super robot's contributors using a [GitHub bot](https://allcontributors.org/docs/en/bot/overview)? **Cool**._
 
 ## License
 
-[MIT](https://github.com/danielcurtis/dont-readme/main/LICENSE)
-
-
-
-
+[MIT](https://github.com/danielcurtis/mad-libs-readme/main/LICENSE)
