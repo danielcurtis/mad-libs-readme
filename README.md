@@ -1,5 +1,5 @@
 <p align="center"><img align="center" src="./logo.png" alt="crossed out book" height="80"/></p>
-<h1 align="center">Don't README</h1>
+<h1 align="center">Mad Libs README</h1>
 
 <p align="center">Templates to level up GitHub READMEs.</p>
 <p align="center"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/codescurtis?style=social"></p>
@@ -10,7 +10,7 @@ I spend too much time writing READMEs. Somehow every README I've written is virt
 
 ## Templates
 
-#### [Basic Template](https://github.com/danielcurtis/dont-readme/tree/main/basic)
+#### [Basic Template](https://github.com/danielcurtis/mad-libs-readme/tree/main/basic)
 
 There's a basic formula that should be followed when writing a README:
 
@@ -23,7 +23,7 @@ There's a basic formula that should be followed when writing a README:
 7. Contributors & Acknowledgements
 8. License
 
-#### [Spicy Template](https://github.com/danielcurtis/dont-readme/tree/main/spicy)
+#### [Spicy Template](https://github.com/danielcurtis/mad-libs-readme/tree/main/spicy)
 
 There's some easy additions to spice up a README:
 
@@ -33,6 +33,6 @@ There's some easy additions to spice up a README:
 4. Add images (bonus points for GIFs)
 5. Use emojis
 
-#### [Personal Template](https://github.com/danielcurtis/dont-readme/tree/main/personal)
+#### [Personal Template](https://github.com/danielcurtis/mad-libs-readme/tree/main/personal)
 
 Recently, GitHub added the option to pin a README to profiles. GitHub actions and some NodeJS make it easy to make it dynamic!
